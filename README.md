@@ -1,9 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media3.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=82a1493b309ouz5y0p9d3o08bpghsyu8fyv3qdtmdnomkije&rid=giphy.gif&ct=s" width="100"/>
-</div>
-
----
-
 ### :open_hands: About Me :
 I am a Quality Assurance Engineer
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/dmitriy-nikolaev-4aa854238)
