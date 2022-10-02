@@ -12,7 +12,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://assets.materialup.com/uploads/cc3516ea-e88f-4528-a67b-f2f1ce89d7ba/BCeEzHdO5vtUPL0cXu4c9g2Yje9Hul2tCCuNszusvV9fR78_uRamE1db-32kJpB_l6lS=w300" title="DevTools" alt="DevTools" width="40" height="40"/>&nbsp;
+  <img src="https://iconape.com/wp-content/files/vu/371696/svg/371696.svg" title="DevTools" alt="DevTools" width="40" height="40"/>&nbsp;
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
