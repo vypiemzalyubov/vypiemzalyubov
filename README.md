@@ -1,7 +1,5 @@
 ### :open_hands: About Me :
 - :wave: I am a Quality Assurance Engineer
-- :writing_hand: Student of the course "Software Testing" Vadim Ksendzov
-- :briefcase: Since May 2022 I have been interning at Identité company
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/dmitriy-nikolaev-4aa854238) [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vypiem_za_lyubov)  
 
 ---
