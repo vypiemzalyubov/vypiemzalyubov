@@ -31,6 +31,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vypiemzalyubov&theme=graywhite)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vypiemzalyubov&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vypiemzalyubov&theme=graywhite )
 
 <img src="https://komarev.com/ghpvc/?username=vypiemzalyubov&style=flat-square&color=blue" alt=""/>
