@@ -30,7 +30,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vypiemzalyubov&theme=graywhite)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vypiemzalyubov&theme=dark)](https://git.io/streak-stats)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vypiemzalyubov&layout=compact)
 
