@@ -32,6 +32,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vypiemzalyubov&hide=stars,prs,issues,contribs&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vypiemzalyubov&layout=compact&langs_count=10&hide_progress=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vypiemzalyubov&layout=compact&langs_count=10&hide_progress=true&theme=graywhite)
 
 <img src="https://komarev.com/ghpvc/?username=vypiemzalyubov&style=flat-square&color=blue" alt=""/>
