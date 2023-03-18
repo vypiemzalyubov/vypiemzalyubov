@@ -30,7 +30,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vypiemzalyubov&theme=graywhite)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vypiemzalyubov&hide=stars,prs,issues,contribs&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vypiemzalyubov&layout=compact&langs_count=10&hide_progress=true)
 
