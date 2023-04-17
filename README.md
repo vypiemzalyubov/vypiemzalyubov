@@ -22,9 +22,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Zabbix_logo_square.svg/2500px-Zabbix_logo_square.svg.png" title="Zabbix" alt="Zabbix" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://media.gurock.com/gk-media/logos/TestRail%20Logo%20Square.svg" title="TestRail" alt="TestRail" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://avatars0.githubusercontent.com/u/983927?v=3&s=400" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
   <img src="https://jmeter.apache.org/images/jmeter_square.svg" title="Apache JMeter" alt="Apache JMeter" width="40" height="40"/>&nbsp;
+  <img src="https://avatars0.githubusercontent.com/u/983927?v=3&s=400" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div> 
 
 ---
