@@ -1,10 +1,10 @@
-### :green_circle: About Me :
+#### :green_circle: About Me :
 - :wave: I am a Quality Assurance Engineer
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/dmitriy-nikolaev-4aa854238) [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vypiem_za_lyubov)  
 
 ---
 
-### :green_circle: Languages and Tools :
+#### :green_circle: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
@@ -31,7 +31,7 @@
 
 ---
 
-### :green_circle: My Stats :
+#### :green_circle: My Stats :
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="130" src="https://github-readme-stats.vercel.app/api?username=vypiemzalyubov&hide=stars&show_icons=true&theme=graywhite&include_all_commits" />
