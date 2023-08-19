@@ -42,13 +42,15 @@
 #### :green_circle: My Stats :
 
 <a href="https://git.io/streak-stats">
-  <img align="center" height="130" src="http://github-readme-streak-stats.herokuapp.com?user=vypiemzalyubov&border_radius=12&card_width=400&fire=000000&stroke=000000&ring=000000&currStreakLabel=000000&border=E7E7E7" />
+  <img align="center" height="130" src="http://github-readme-streak-stats.herokuapp.com?user=vypiemzalyubov&border_radius=10&card_width=400&fire=000000&stroke=000000&ring=000000&currStreakLabel=000000&border=DDDDDD" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vypiemzalyubov&layout=compact&langs_count=10&hide_progress=true&theme=graywhite" />
 </a>
-
-[![codewars](https://www.codewars.com/users/vypiemzalyubov/badges/micro)](https://www.codewars.com/users/vypiemzalyubov) 
-
+<br>
+<a href="https://www.codewars.com/users/vypiemzalyubov">
+  <img align="center" height="20" src="https://www.codewars.com/users/vypiemzalyubov/badges/micro" />
+</a>
+<br>
 <img src="https://komarev.com/ghpvc/?username=vypiemzalyubov&style=flat-square&color=blue" alt=""/>
