@@ -53,4 +53,4 @@
   <img align="center" height="20" src="https://www.codewars.com/users/vypiemzalyubov/badges/micro" />
 </a>
 <br>
-<img src="https://komarev.com/ghpvc/?username=vypiemzalyubov&style=plastic&color=lightgrey" alt=""/>
+<img width="119" height="20" src="https://komarev.com/ghpvc/?username=vypiemzalyubov&style=flat&color=lightgrey" alt=""/>
