@@ -46,6 +46,6 @@
   <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vypiemzalyubov&layout=compact&langs_count=10&hide_progress=true&theme=graywhite" />
 </a>
 
-[![codewars](https://www.codewars.com/users/vypiemzalyubov/badges/small)](https://www.codewars.com/users/vypiemzalyubov) 
+[![codewars](https://www.codewars.com/users/vypiemzalyubov/badges/micro)](https://www.codewars.com/users/vypiemzalyubov) 
 
 <img src="https://komarev.com/ghpvc/?username=vypiemzalyubov&style=flat-square&color=blue" alt=""/>
