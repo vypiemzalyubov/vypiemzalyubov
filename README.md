@@ -41,9 +41,10 @@
 
 #### :green_circle: My Stats :
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api?username=vypiemzalyubov&hide=stars&show_icons=true&theme=graywhite&include_all_commits" />
+<a href="https://git.io/streak-stats">
+  <img align="center" height="130" src="http://github-readme-streak-stats.herokuapp.com?user=vypiemzalyubov&border_radius=12&card_width=400&fire=000000&stroke=000000&ring=000000&currStreakLabel=000000&border=E7E7E7" />
 </a>
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vypiemzalyubov&layout=compact&langs_count=10&hide_progress=true&theme=graywhite" />
 </a>
