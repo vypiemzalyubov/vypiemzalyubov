@@ -1,7 +1,7 @@
 #### :green_circle: About Me :
 - I am a Quality Assurance Engineer
 - Currently working at [**TradingView**](https://www.tradingview.com/about/)
-- How to contact me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/dmitriy-nikolaev-4aa854238) [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vypiem_za_lyubov)  
+- How to contact me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/dmitriy-nikolaev-4aa854238) [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vypiem_za_lyubov)
 
 ---
 
@@ -45,5 +45,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vypiemzalyubov&layout=compact&langs_count=10&hide_progress=true&theme=graywhite" />
 </a>
+
+[![codewars](https://www.codewars.com/users/vypiemzalyubov/badges/small)](https://www.codewars.com/users/vypiemzalyubov) 
 
 <img src="https://komarev.com/ghpvc/?username=vypiemzalyubov&style=flat-square&color=blue" alt=""/>
