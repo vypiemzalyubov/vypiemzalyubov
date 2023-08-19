@@ -46,7 +46,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="130" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vypiemzalyubov&layout=compact&langs_count=10&hide_progress=true&theme=graywhite" />
+  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vypiemzalyubov&layout=compact&langs_count=10&hide_progress=true&theme=graywhite" />
 </a>
 <br>
 <a href="https://www.codewars.com/users/vypiemzalyubov">
