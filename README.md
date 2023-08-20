@@ -1,4 +1,4 @@
-#### :green_circle: About Me :
+### :green_circle: About Me :
 - I am a Quality Assurance Engineer
   
 - Currently working at [**TradingView**](https://www.tradingview.com/about/)
@@ -9,7 +9,7 @@
 
 ---
 
-#### :green_circle: Tools :
+### :green_circle: Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="50" height="50"/>&nbsp;
@@ -32,7 +32,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Yandex.Tank_logo.jpg" title="Yandex.Tank" alt="Yandex.Tank" width="50" height="50"/>&nbsp;  
 </div> 
 
-#### :green_circle: Languages :
+### :green_circle: Languages :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML" alt="HTML" width="50" height="50"/>&nbsp;
@@ -42,7 +42,7 @@
 
 ---
 
-#### :green_circle: My Stats :
+### :green_circle: My Stats :
 
 <a href="https://git.io/streak-stats">
   <img align="center" height="180" src="http://github-readme-streak-stats.herokuapp.com?user=vypiemzalyubov&border_radius=10&card_width=360&fire=000000&stroke=000000&ring=000000&currStreakLabel=000000&border=DDDDDD" />
