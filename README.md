@@ -1,6 +1,8 @@
 #### :green_circle: About Me :
 - I am a Quality Assurance Engineer
+  
 - Currently working at [**TradingView**](https://www.tradingview.com/about/)
+  
 - How to contact me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/dmitriy-nikolaev-4aa854238) [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vypiem_za_lyubov)
 
 ---
