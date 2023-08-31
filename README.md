@@ -53,7 +53,7 @@
 </a>
 <br>
 <a href="https://www.codewars.com/users/vypiemzalyubov">
-  <img align="center" height="20" src="https://www.codewars.com/users/vypiemzalyubov/badges/micro" />
+  <img align="center" height="20" src="https://www.codewars.com/users/vypiemzalyubov/badges/small" />
 </a>
 <br>
 <img width="119" height="20" src="https://komarev.com/ghpvc/?username=vypiemzalyubov&style=flat&color=lightgrey" alt=""/>
