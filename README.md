@@ -16,7 +16,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
   <img src="https://iconape.com/wp-content/files/vu/371696/svg/371696.svg" title="DevTools" alt="DevTools" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="50" height="50"/>&nbsp;
-  <img src="https://media.gurock.com/gk-media/logos/TestRail%20Logo%20Square.svg" title="TestRail" alt="TestRail" width="50" height="50"/>&nbsp;
+  <img src="https://plugins.jetbrains.com/files/12513/451639/icon/pluginIcon.svg" title="Allure TestOps" alt="Allure TestOps" width="50" height="50"/>&nbsp;
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" title="Postman" alt="Postman" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
