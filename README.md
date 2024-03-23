@@ -42,18 +42,20 @@
 
 ---
 
-### :bar_chart: My Stats :
+### :bar_chart: Stats :
 
 <a href="https://git.io/streak-stats">
-  <img align="center" height="180" src="http://github-readme-streak-stats.herokuapp.com?user=vypiemzalyubov&border_radius=10&card_width=360&fire=000000&stroke=000000&ring=000000&currStreakLabel=000000&border=DDDDDD" />
+  <img align="center" height="180" src="http://github-readme-streak-stats.herokuapp.com?user=vypiemzalyubov&border_radius=10&card_width=360&fire=DDDDDD&stroke=DDDDDD&ring=DDDDDD&currStreakLabel=DDDDDD&border=DDDDDD&theme=dark" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vypiemzalyubov&layout=compact&theme=graywhite" />
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vypiemzalyubov&layout=compact&theme=dark" />
 </a>
-<br>
+
+---
+
+### :star: Achievements :
 <a href="https://www.codewars.com/users/vypiemzalyubov">
-  <img align="center" src="https://www.codewars.com/users/vypiemzalyubov/badges/micro" />
+  <img align="center" src="https://www.codewars.com/users/vypiemzalyubov/badges/large" />
 </a>
-<br>
-<img width="119" height="20" src="https://komarev.com/ghpvc/?username=vypiemzalyubov&style=flat&color=lightgrey" alt=""/>
+
