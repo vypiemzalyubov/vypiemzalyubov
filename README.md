@@ -1,5 +1,5 @@
 ### :wave: About Me :
-- I am a Quality Assurance Engineer
+- I am a QA/AQA Engineer
   
 - Currently working at [**TradingView**](https://www.tradingview.com/about/)
 
